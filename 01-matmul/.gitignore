@@ -1,0 +1,8 @@
+build/
+.venv/
+compile_commands.json
+results/*.png
+__pycache__/
+*.trace/
+CLAUDE.md
+.cache/
